@@ -42,3 +42,5 @@ Complexity analysis of plucking fruits is a novel topic and the machine learning
   
 Prediction:
 ![image](https://user-images.githubusercontent.com/51755694/145883391-216a67f7-976c-4e5a-9874-89e4eea34439.png)
+![strawberry picking robot-U-Net-result](https://user-images.githubusercontent.com/51755694/145884335-4b3d7af2-0e87-41cb-9ac0-1a146a3f685d.jpg)
+
