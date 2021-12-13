@@ -37,6 +37,8 @@ Masks are prepared using polygon labelling in apeer.com
 
 ## Novelty
 Complexity analysis of plucking fruits is a novel topic and the machine learning model is trained using ripe strawberries classified as easy, medium, hard and very hard depending upon the complexity to harvest. The U-Net model has a robust architecture and is widely used in the medical field for detection of tumours, cancer cells etc. In this project U-Net is implemented for multiclass semantic segmentation. Active perception is achieved using 2D cameras to classify the strawberries and to find the picking point and to estimate the time of harvest. Calculating all these from a single detection is hard but the model was able to give enough information to improve the detection. This  project also helps the robot to completely detect all ripe the strawberries and gives the input to the system to further manipulate and explore the environment in case of detection of heavily occluded berries. The total detection of fruits to be harvested is still a novelty and the system is now able to detect and explore the environment
-
+  
+Prediction:
+https://github.com/srt3000/Complexity-Analysis-for-strawberry-harvesting-in-cluttered-environments/blob/72aa2e6218029953da28d94a99f536c0a2956625/Prediction%20Sample.png
 
 
